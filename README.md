@@ -1,2 +1,2 @@
 # Single Object Segmentation with Pytorch
-In this repository you learn
+In this repository you learn how to detect a single object
