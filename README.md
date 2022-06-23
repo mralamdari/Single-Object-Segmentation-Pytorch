@@ -1,1 +1,1 @@
-# Single-Object-Segmentation-Pytorch
+# Single Object Segmentation Pytorch
